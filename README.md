@@ -1,4 +1,4 @@
-# RehabMotion AI
+# RehabMotion
 
 **Video-based 2D movement analysis for rehabilitation exercises.**
 
@@ -36,7 +36,7 @@ RehabMotion AI is a Python/Streamlit R&D prototype that turns a standard exercis
 
 ## Analysis pipeline
 
-![RehabMotion AI analysis pipeline](docs/assets/pipeline.svg)
+![RehabMotion analysis pipeline](docs/assets/pipeline.svg)
 
 1. Validate the video and extract metadata.
 2. Run MediaPipe Pose Landmarker on sampled frames.
