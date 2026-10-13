@@ -7,7 +7,7 @@
 ![Tests](https://img.shields.io/badge/tests-31%20passing-2F7D68)
 ![Roadmap](https://img.shields.io/badge/roadmap-7%2F7%20complete-38A38B)
 
-RehabMotion AI is a Python/Streamlit R&D prototype that turns a standard exercise video into auditable pose, kinematic and repetition metrics. It connects computer vision, signal processing and introductory biomechanics in one end-to-end portfolio project.
+RehabMotion is a Python/Streamlit R&D prototype that turns a standard exercise video into auditable pose, kinematic and repetition metrics. It connects computer vision, signal processing and introductory biomechanics in one end-to-end portfolio project.
 
 > **Medical disclaimer**
 >
